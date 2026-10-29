@@ -35,28 +35,3 @@ selama program berjalan.
 | 3 | Kompor Portable | Rp20.000 |
 | 4 | Matras Camping | Rp10.000 |
 | 5 | Lampu Camping | Rp12.000 |
-
-## Cara Kompilasi dan Menjalankan
-
-```bash
-gcc adventure_camp.c -o adventure_camp
-./adventure_camp        # Linux / macOS
-adventure_camp.exe      # Windows
-```
-
-## Screenshot Hasil Eksekusi
-
-> Ganti placeholder di bawah dengan screenshot asli dari terminal Anda
-> (simpan gambar di folder `screenshots/`).
-
-### Menu Utama
-![Menu Utama](screenshots/menu-utama.png)
-
-### Daftar Peralatan
-![Daftar Peralatan](screenshots/daftar-peralatan.png)
-
-### Struk Penyewaan
-![Struk](screenshots/struk.png)
-
-### Riwayat Transaksi
-![Riwayat](screenshots/riwayat.png)
